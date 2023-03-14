@@ -1,10 +1,14 @@
-# DeStay Protocol
+# DeServe Protocol
+
+DeServe Protocol - created for the Solana Grizzlython Hackathon
 
 ## Overview
 
-The Solana payment protocol between businesses and users.
+DeServe is a decentralized protocol built on the Solana blockchain. It aims to decentralize a 
+variety of services and industries by eliminating middlemen/platform fees and making services 
+more transparent.
 
-Features:
+Key Features:
 
 -   Create order
 
@@ -36,3 +40,7 @@ Suggestions and PRs welcome!
 -   git clone
 -   anchor build
 -   anchor deploy
+
+## Sample demo app [Hote booking system using deserve protocol]
+
+- https://destay.netlify.app/
