@@ -41,6 +41,6 @@ Suggestions and PRs welcome!
 -   anchor build
 -   anchor deploy
 
-## Sample demo app [Hote booking system using deserve protocol]
+## Sample demo app [Hotel booking system using deserve protocol]
 
 - https://destay.netlify.app/
